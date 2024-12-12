@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<article class='markdown-body entry-content container-lg f5'>
 - 💻 Support Analyst @<a href='https://www.unisys.com/pt/'>Unisys</a>
 - 🎓 Studying Systems Analysis and Development - Finish in 2025
 - 👨🏾‍💻 Passionate about programming
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - :coffee: I'm currently dedicating myself to Java
   
 <p dir="auto"><img width="200px" align="right" src="https://i.ibb.co/LvndT71/photo-5105273715058388546-y-removebg-preview.png" alt="photo-5105273715058388546-y-removebg-preview" border="0" data-canonical-src="https://ibb.co/sty9TYq" style="max-width: 100%;"></p>
+</article>
 
 ## I am learning
 <div>
