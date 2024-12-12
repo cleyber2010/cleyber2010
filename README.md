@@ -25,3 +25,17 @@ Here are some ideas to get you started:
 - 👨🏾‍💻 Passionate about programming
 - 🌐 I like challenges
 - :coffee: I'm currently dedicating myself to Java
+
+  ## I am learning
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> Java
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> NodeJS
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> Docker
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> Kubernets
+          
+          
+          
+          
