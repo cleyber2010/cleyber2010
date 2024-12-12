@@ -3,7 +3,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleyber.fernandes@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/CleyberMatos)
 ### My name is Cleyber and I'm a full stack developer
-(Java)
+
+(Java | JavaScript | PHP | NodeJS | HTML5 | CSS3 | JQuery | Typescript)
 <!--
 **cleyber2010/cleyber2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Support Analyst @<a href='https://www.unisys.com/pt/'>
