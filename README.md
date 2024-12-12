@@ -14,6 +14,7 @@ I'm 31 years old, I'm passionate about programming, I like to dabble in differen
 - 👨🏾‍💻 Passionate about programming
 - 🌐 I like challenges
 - 📚 I have been working and studying mainly Java, and I am also venturing into NodeJS
+- 🎮 In my free time I like to play video games 
   
 
 ### 🖥️ Technologies and Tools: 
