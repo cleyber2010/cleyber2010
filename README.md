@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 👨🏾‍💻 Passionate about programming
 - 🌐 I like challenges
 - :coffee: I'm currently dedicating myself to Java
-
+<img src="https://i.ibb.co/LvndT71/photo-5105273715058388546-y-removebg-preview.png" alt="photo-5105273715058388546-y-removebg-preview" border="0">
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://ibb.co/sty9TYq"><img width="200px" align="right" src="https://ibb.co/sty9TYq" data-canonical-src="https://ibb.co/sty9TYq" style="max-width: 100%;"></a></p>
 
 ## I am learning
