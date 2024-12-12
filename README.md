@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - 🌐 I like challenges
 - :coffee: I'm currently dedicating myself to Java
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4313f28723ab82a547ca6f4719d2691b3cb71d75cf992ace3a5aaba43c252b09/68747470733a2f2f692e6962622e636f2f6e334a466a53742f6a656e6930322e706e67"><img width="200px" align="right" src="https://camo.githubusercontent.com/4313f28723ab82a547ca6f4719d2691b3cb71d75cf992ace3a5aaba43c252b09/68747470733a2f2f692e6962622e636f2f6e334a466a53742f6a656e6930322e706e67" data-canonical-src="https://ibb.co/sty9TYq" style="max-width: 100%;"></a></p>
+
 ## I am learning
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="80" height="80" /> 
