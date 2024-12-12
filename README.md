@@ -3,7 +3,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleyber.fernandes@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/CleyberMatos)
 ### My name is Cleyber and I'm a full stack developer
-<hr>
 
 (Java | JavaScript | PHP | NodeJS | HTML5 | CSS3 | JQuery | Typescript)
 <!--
@@ -25,3 +24,4 @@ Here are some ideas to get you started:
 - 🎓 Studying Systems Analysis and Development - Finish in 2025
 - 👨🏾‍💻 Passionate about programming
 - 🌐 I like challenges
+- :coffee: I'm currently dedicating myself to Java
