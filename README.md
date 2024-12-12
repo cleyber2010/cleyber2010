@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Support Analyst @<a href='https://www.unisys.com/pt/'>
+- 💻 Support Analyst @<a href='https://www.unisys.com/pt/'>Unisys</a>
+- 🎓 Studying Systems Analysis and Development - Finish in 2025
+- 👨🏾‍💻 Passionate about programming
+- 🌐 I like challenges
