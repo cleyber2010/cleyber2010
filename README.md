@@ -9,7 +9,7 @@ I'm 31 years old, I'm passionate about programming, I like to dabble in differen
 
 <img width="350" align="right" src="https://i.ibb.co/LvndT71/photo-5105273715058388546-y-removebg-preview.png">
 
-- 💻 Support Analyst @<a href='https://www.unisys.com/pt/'>Unisys</a>
+- 💻 IT Coordinator @<a href='taua.com.br'>Tauá Resort</a>
 - 🎓 Studying Systems Analysis and Development - Finish in 2025
 - 👨🏾‍💻 Passionate about programming
 - 🌐 I like challenges
